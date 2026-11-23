@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nome": "Dipirona 500mg",
+    "principio_ativo": "Metamizol sódico",
+    "laboratorio": "Medley",
+    "preco": 12.9,
+    "estoque": 155,
+    "categoria": "Analgésico",
+    "requer_receita": false,
+    "descricao": "Indicada para dores e febre. Comprimidos."
+  },
+  {
+    "id": 2,
+    "nome": "Amoxicilina 500mg",
+    "principio_ativo": "Amoxicilina",
+    "laboratorio": "EMS",
+    "preco": 28.5,
+    "estoque": 188,
+    "categoria": "Antibiótico",
+    "requer_receita": true,
+    "descricao": "Antibiótico de amplo espectro. Cápsulas."
+  },
+  {
+    "id": 3,
+    "nome": "Losartana 50mg",
+    "principio_ativo": "Losartana potássica",
+    "laboratorio": "Eurofarma",
+    "preco": 18.75,
+    "estoque": 216,
+    "categoria": "Anti-hipertensivo",
+    "requer_receita": true,
+    "descricao": "Controle da pressão arterial. Comprimidos."
+  },
+  {
+    "id": 4,
+    "nome": "Paracetamol 750mg",
+    "principio_ativo": "Paracetamol",
+    "laboratorio": "Neo Química",
+    "preco": 9.9,
+    "estoque": 297,
+    "categoria": "Analgésico",
+    "requer_receita": false,
+    "descricao": "Alívio de dores e redução de febre."
+  },
+  {
+    "id": 5,
+    "nome": "Omeprazol 20mg",
+    "principio_ativo": "Omeprazol",
+    "laboratorio": "Medley",
+    "preco": 22.4,
+    "estoque": 117,
+    "categoria": "Protetor Gástrico",
+    "requer_receita": false,
+    "descricao": "Tratamento de refluxo e úlceras. Cápsulas."
+  },
+  {
+    "id": 6,
+    "nome": "Ibuprofeno 600mg",
+    "principio_ativo": "Ibuprofeno",
+    "laboratorio": "EMS",
+    "preco": 15.3,
+    "estoque": 25,
+    "categoria": "Anti-inflamatório",
+    "requer_receita": false,
+    "descricao": "Alívio de dores e inflamações."
+  },
+  {
+    "id": 7,
+    "nome": "Sinvastatina 20mg",
+    "principio_ativo": "Sinvastatina",
+    "laboratorio": "Eurofarma",
+    "preco": 14.8,
+    "estoque": 110,
+    "categoria": "Hipolipemiante",
+    "requer_receita": true,
+    "descricao": "Controle do colesterol. Comprimidos."
+  },
+  {
+    "id": 8,
+    "nome": "Vitamina C 1g",
+    "principio_ativo": "Ácido ascórbico",
+    "laboratorio": "Cimed",
+    "preco": 19.9,
+    "estoque": 180,
+    "categoria": "Suplemento",
+    "requer_receita": false,
+    "descricao": "Suplemento vitamínico efervescente."
+  },
+  {
+    "id": 9,
+    "nome": "Dorflex",
+    "principio_ativo": "Dipirona + Orfenadrina + Cafeína",
+    "laboratorio": "Sanofi",
+    "preco": 24.9,
+    "estoque": 15,
+    "categoria": "Analgésico",
+    "requer_receita": false,
+    "descricao": "Alívio de dores musculares e tensionais."
+  },
+  {
+    "id": 10,
+    "nome": "Rivotril 2mg",
+    "principio_ativo": "Clonazepam",
+    "laboratorio": "Roche",
+    "preco": 32.0,
+    "estoque": 40,
+    "categoria": "Ansiolítico",
+    "requer_receita": true,
+    "descricao": "Controle de ansiedade e convulsões. Comprimidos."
+  },
+  {
+    "nome": "Tylenol 500mg",
+    "principio_ativo": "Paracetamol",
+    "laboratorio": "Janssen",
+    "preco": 11.5,
+    "estoque": 90,
+    "categoria": "Analgésico",
+    "requer_receita": false,
+    "descricao": "Analgésico e antitérmico",
+    "id": 11
+  }
+]
